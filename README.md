@@ -37,4 +37,3 @@ ay, chihuahua
 
 
 @rayrc @rayantony
-![My Unicorn](https://github.com/unicorn.png).
