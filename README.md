@@ -1,39 +1,10 @@
-# rayrc.github.io.
-=======================
-####Ray Anthony | RayRC Trust Co.
+# rayrc.github.io
+---
 
-<img alt="@rayrc" class="avatar" data-user="12002053" height="100" itemprop="image" src="https://avatars0.githubusercontent.com/u/12002053?v=3&amp;s=200" width="100">
+RayRC is a team of Ray Anthony, to centralize some sources and organize projects. In the real world I'm many people and organizations, and have to wear many hats juggling tokens is hard so I dont get the priviledge often to use git or bitbucket to the fullest but I'm hopeful that will change soon on the infrastructure side as well as my side. 
 
-ay, chihuahua
+Who am I? Well I guess I'm a sales guy. I'm also a sales manager, a business owner, an entrepreneur, an investor, and an engineer who builds front and backend web applications or server software. As a manager I lead by example my job has been to do this in front of other sales guys as part of my method for training them to do the same. I am mostly a business man, being able to build, rebuild, and takeover sales organizations, often to the top of their market, is what I am best at and occupies most of my time.
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="BBB87948:4D85:5ADC229:5531BE2C" name="octolytics-dimension-request_id" /><meta content="9811019" name="octolytics-actor-id" /><meta content="rayantony" name="octolytics-actor-login" /><meta content="9912dccf56085b26ed57f465c83a6881634a06f9b364885fc4fe0dc20bfea799" name="octolytics-actor-hash" />
-    
+I make things in an engineering capacity as well. Its not uncommon for me to code the software from germ of idea to production model to fit uniquely and specifically the marketing angle and add foundation to a sales proposition or pitch. I expect to then personally oversee that process, to scale. Contextual Ad Networks are not rocket science nor is marketing such a product direct at a 10k times markup as compared to Doubleclick, Adsense, and other pop traffic pipe dreams a new business may rest their confidences with. HD voice and video group or encrypted peer to peer? Sure. Mostly done with that since 2007. Iframe/html5 ads? I sort of ran the highest grossing office in the country and that whole industry until I needed a change.
 
-
-      
-<meta name="description" content="rayrc.github.io. - Ray Anthony ~ Profit yeah it&#39;s fairly simple.">
-<meta name="go-import" content="github.com/rayrc/rayrc.github.io.git https://github.com/rayrc/rayrc.github.io.git">
-
-
-<link rel="sudo-modal" href="/sessions/sudo_modal">
-      <div class="site-search  js-site-search" role="search">
-          <form accept-charset="UTF-8" action="/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
-
-
-  <input type="text"
-    class=""
-    data-hotkey="s"
-    name="q"
-    placeholder="Search GitHub"
-    data-global-scope-placeholder="Search GitHub"
-    data-repo-scope-placeholder="Search"
-    tabindex="1"
-    autocapitalize="off">
-  <div class="scope-badge">This repository</div>
-</form>
-
-<meta content="12002053" name="octolytics-dimension-user_id" /><meta content="rayrc" name="octolytics-dimension-user_login" /><meta content="34148880" name="octolytics-dimension-repository_id" /><meta content="rayrc/rayrc.github.io." name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="34148880" name="octolytics-dimension-repository_network_root_id" /><meta content="rayrc/rayrc.github.io." name="octolytics-dimension-repository_network_root_nwo" />
-<link href="https://github.com/rayrc/rayrc.github.io./commits/master.atom" rel="alternate" title="Recent Commits to rayrc.github.io.:master" type="application/atom+xml">
-
-
-@rayrc @rayantony
+### Revenue is easy, funding is hard.
